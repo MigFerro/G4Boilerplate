@@ -1,6 +1,6 @@
 Boilerplate for a Geant4 simulation
 
-## First steps:
+## First steps
 
 - Rename sim.cc
 - Change all mentions of `sim` in CMakeLists to fit your project
